@@ -1,0 +1,27 @@
+Instrucciones para usar el Asistente Tanya:
+
+1.  **Ubicación del programa:**
+    Encontrarás el programa principal llamado `Asistente_tanya.exe` dentro de esta carpeta.
+
+2.  **Primer uso (Inicio de Sesión en WhatsApp Web):**
+    *   La primera vez que ejecutes `Asistente_tanya.exe`, se abrirá una ventana.
+    *   En esta ventana, verás la interfaz de WhatsApp Web. Deberás escanear el código QR con tu teléfono, tal como lo haces normalmente para iniciar sesión en WhatsApp Web en un navegador.
+    *   Una vez que hayas iniciado sesión, la aplicación recordará tu sesión. No deberías necesitar escanear el código QR nuevamente en futuras ocasiones, a menos que cierres sesión desde tu teléfono o haya algún problema con el perfil de Chrome.
+
+3.  **Uso General:**
+    *   Una vez iniciada la sesión, la aplicación te permitirá cargar archivos de Excel con contactos y enviar mensajes personalizados, incluyendo imágenes.
+    *   Sigue las instrucciones en la interfaz de la aplicación para cargar tus contactos y configurar tus mensajes.
+
+4.  **Envío de Mensajes con Imágenes:**
+    *   Cuando envíes mensajes con imágenes, la aplicación ahora espera un poco más para asegurarse de que la imagen se ha cargado y enviado correctamente antes de pasar al siguiente contacto. Esto ayuda a evitar que los mensajes se envíen sin la imagen adjunta.
+
+5.  **Cierre de la Aplicación:**
+    *   Para cerrar la aplicación, simplemente cierra la ventana principal. La aplicación se encargará de cerrar todos los procesos relacionados de forma segura.
+
+**Notas Importantes:**
+
+*   Asegúrate de tener una conexión a internet estable para que WhatsApp Web funcione correctamente.
+*   Si en algún momento la aplicación no funciona como esperas o te pide escanear el código QR de nuevo sin motivo aparente, intenta cerrar la aplicación y volver a abrirla. Si el problema persiste, por favor, comunícaselo a la persona que te proporcionó este asistente.
+*   No muevas ni elimines ningún otro archivo dentro de esta carpeta, ya que son necesarios para que el programa funcione correctamente.
+
+¡Esperamos que este asistente te sea de gran ayuda! y TE AMOOOO
